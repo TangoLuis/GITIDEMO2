@@ -1,0 +1,1 @@
+esta es la forma de hacerlo desde el local hacia el remoto
